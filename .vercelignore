@@ -1,0 +1,10 @@
+# Ignore test files
+**/__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+tests/
+*.md
+.git
+.gitignore
+.env.local

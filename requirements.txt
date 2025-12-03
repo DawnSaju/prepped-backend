@@ -1,0 +1,10 @@
+fastapi
+appwrite
+pydantic
+python-dotenv
+twilio
+google.generativeai
+google-adk
+python-multipart
+uvicorn
+duckduckgo-search
